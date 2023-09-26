@@ -1,0 +1,114 @@
+@media all {
+* {
+    background-color:rgb(210, 209, 208);
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid input {
+    padding:3px;
+    margin: 7px;
+    border-radius: 2px;
+}
+
+body 
+{
+    font-family:'Bricolage Grotesque', sans-serif;
+    background-color:bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.container
+{
+    background-color:rgb(210, 209, 208);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px;
+    width: 500px;
+    max-width: 100%;
+    padding: 5px;
+}
+
+.header {
+    background-color: burlywood;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+    font-size: 9px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+.container-fluid {
+    overflow: hidden;
+    padding: 5px;
+    margin: 10px;
+}
+
+.btn {
+    text-align: center;
+    border-style: none;
+    padding: 2px;
+    margin: 2px;
+}
+
+#btn1 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#btn2 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#btn3 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#btn4 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#btn5 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+#btn6 {
+    background-color: rgb(46, 49, 54);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+    
+
+}
+
